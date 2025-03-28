@@ -68,7 +68,7 @@
             right: 0;
             width: 50%;
             height: 100%;
-            background: url('https://github.com/ashok24bng/legal/blob/main/legal-hero-image.png') center/cover no-repeat;
+            background: url('legal-hero-image.png') center/cover no-repeat;
             opacity: 0.1;
         }
         
@@ -439,7 +439,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6" data-aos="fade-left">
-                    <img src="C:\Users\ASUS\Downloads\allindialegalservice.com\allindialegalservice.com\images\legal-hero-image.png" alt="Legal Services" class="img-fluid">
+                    <img src="legal-hero-image.png" alt="Legal Services" class="img-fluid">
                 </div>
             </div>
         </div>
