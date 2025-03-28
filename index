@@ -407,7 +407,7 @@
     <nav class="navbar navbar-expand-lg navbar-light fixed-top">
         <div class="container">
             <a class="navbar-brand" href="#">
-                <img src="C:\Users\ASUS\Downloads\allindialegalservice.com\allindialegalservice.com\images\legal-solutions-logo.png" alt="Legal Solutions India" height="40">
+                <img src="https://github.com/ashok24bng/legal/blob/main/legal-solutions-logo.png" alt="Legal Solutions India" height="40">
                 <span class="ms-2 d-none d-lg-inline">Legal Solutions India</span>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
