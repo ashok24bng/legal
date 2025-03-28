@@ -69,7 +69,7 @@
             right: 0;
             width: 50%;
             height: 100%;
-            background: url('images/legal-pattern.png') center/cover no-repeat;
+            background: url('legal-solutions-logo.png') center/cover no-repeat;
             opacity: 0.1;
         }
         
